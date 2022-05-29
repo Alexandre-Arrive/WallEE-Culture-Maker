@@ -1,0 +1,5 @@
+# Writing all output to: C:\Cours_Valentin\ENSEIRB_2\Cours_2021_2022\Projet_S8\Robot Wallee\PCB\WALLEE_MAIN_PCB.log
+set pad_wire_necking on
+bus diagonal
+fanout 5
+route 50
