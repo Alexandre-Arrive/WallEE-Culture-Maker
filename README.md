@@ -1,7 +1,7 @@
-Repo du rojet Culture Maker "WallEE"
+Repositery du projet Culture Maker "WallEE".
 
-Par Valentin Romero, Alexandre Arrivé, Mathieu Bernard
-ENSEIRB-MATMECA, Département Electronique
+Projet réalisé par Valentin Romero, Alexandre Arrivé, Mathieu Bernard
+ENSEIRB-MATMECA, Département Electronique, 2022
 
 Notre objectif était de concevoir un robot autonome capable détecter les obstacles dans son environnement, de se déplacer, de générer du son, et de proposer une interface utilisateur intuitive.
 
