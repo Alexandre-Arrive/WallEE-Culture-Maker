@@ -1,0 +1,1 @@
+Ce dossier contient l'ensemble des pièces 3D constituant le robot.
